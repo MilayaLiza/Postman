@@ -14,4 +14,4 @@
 * проводить автоматизированное тестирование API по коллекции запросов с помощью Collection Runner.
 ##### Для работы с серверами программа использует протокол HTTP. 
 ##### Тестировщик отправляет тестовые запросы от клиента на сервер и получает ответ, есть ли ошибка в работе API.
-
+! https://banner2.cleanpng.com/20180419/wxe/kisspng-api-testing-application-programming-interface-soft-authorization-5ad8762fa9ce71.6619347015241354716955.jpg
